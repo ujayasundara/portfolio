@@ -6,8 +6,7 @@ import {
   Code2, 
   Briefcase, 
   GraduationCap, 
-  Layers,
-  ChevronRight
+  Layers
 } from 'lucide-react';
 import './App.css';
 
